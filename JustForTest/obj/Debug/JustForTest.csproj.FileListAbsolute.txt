@@ -1,0 +1,6 @@
+C:\Users\dommi\source\repos\JustForTest\JustForTest\obj\Debug\JustForTest.csprojAssemblyReference.cache
+C:\Users\dommi\source\repos\JustForTest\JustForTest\bin\Debug\JustForTest.exe.config
+C:\Users\dommi\source\repos\JustForTest\JustForTest\bin\Debug\JustForTest.exe
+C:\Users\dommi\source\repos\JustForTest\JustForTest\bin\Debug\JustForTest.pdb
+C:\Users\dommi\source\repos\JustForTest\JustForTest\obj\Debug\JustForTest.exe
+C:\Users\dommi\source\repos\JustForTest\JustForTest\obj\Debug\JustForTest.pdb
